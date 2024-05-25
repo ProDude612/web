@@ -1,0 +1,36 @@
+main {
+font-family: 'Courier New';
+color: white;
+margin-left:50px;
+}
+html{
+background-color: #081c15;
+
+}
+#title{
+color: #fefee3;
+font-size: 54px;
+text-align: center;
+}
+.heading{
+font-size: 24px;
+}
+footer{
+background-color: #aec3b0;
+
+
+}
+div{
+margin-left: 20px;
+color:#01161e;
+}
+img{
+border-style:groove;
+border-width:5px;
+float: right;
+margin-left:20px;
+margin-bottom: 20px;
+}
+main{
+margin-right:20px;
+}

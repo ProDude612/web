@@ -10,11 +10,15 @@ background-color: #081c15;
 #title{
 color: #fefee3;
 font-size: 54px;
-background-color: #081c15;
 text-align: center;
+background-color:#01161e;
+}
+header{
+background-color: #01161e;
 }
 .heading{
 font-size: 24px;
+color: white;
 }
 footer{
 background-color: #aec3b0;
